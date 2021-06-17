@@ -1,6 +1,6 @@
 
 {
-  "name": "sha-microservice-1-product",
+  "name": "sha-microservices-1-product",
   "buildpacks": [
     {
       "url": "heroku/gradle"
